@@ -1,0 +1,45 @@
+#labels Featured
+= Changelog =
+
+=== v2.6.0 - September 11, 2010 ===
+ * Function for creating M3U playlist from multiple directories
+
+=== v2.5.5 - August 26, 2010 ===
+ * Batch rename and copy function
+
+=== v2.5.0 - August 23, 2010 ===
+ * Split/Merge files
+ * UI improvements
+
+=== v2.4.0 - August 21, 2010 ===
+ * Checking hash using clipboard or manually (in file properties)
+ * Structure function (for Picasa, Google Documents and local file system)
+   * Copy structure of files and directories to clipboard
+   * Save structure of files and directories to text file with custom depth of search
+
+=== v2.3.0 - August 14, 2010 ===
+ * Detailed info about files
+   * ID3 tags - support for mp3, m4a, flac and ogg
+   * EXIF information - support for jpg, raw and tiff
+
+=== v2.2.0 - August 12, 2010 ===
+ * Added support for making ZIP archives with custom level of compression
+
+=== v2.1.5 - August 11, 2010 ===
+ * Improved Thumbmails and properties dialog - use middle/wheel mouse button to show thumbmail (for pdf, jpg, png, gif) or to show properties (other filetypes and directories)
+
+=== v2.1.0 - August 10, 2010 ===
+ * Added Thumbmails - right click on pdf/jpg/png/gif file, select properties and card Thumbmails
+ * Added SHA-1 hash for files
+
+=== v2.0.2 - August 7, 2010 ===
+ * Added missing library for Picasa and Google Documents
+
+=== v2.0.1 - August 1, 2010 ===
+ * minor fixes
+
+=== v2.0 - June, 2010 ===
+ * Google Documents support
+
+=== v1.0 - June, 2010 ===
+ * Picasa support
